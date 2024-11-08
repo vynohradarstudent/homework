@@ -1,0 +1,11 @@
+#weather {
+    font-family: Arial, sans-serif;
+  }
+  .day {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  h3 {
+    margin: 0;
+  }
