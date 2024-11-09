@@ -1,0 +1,37 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+}
+.navbar-brand{
+    display: flex;
+}
+
+.navbar-brand p{
+   margin: auto;
+   font-weight: 900;
+}
+
+
+.back{
+    position: absolute;
+    z-index: -1;
+}
+
+#btn_start{
+    
+    margin: 20px;
+    margin-top: 200px;
+    padding: 10px 50px ;
+    font-weight: 800;
+    font-size: large;
+}
+
+.main_structure{
+padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
